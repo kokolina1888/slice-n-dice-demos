@@ -1,0 +1,13 @@
+#normal {
+	font-size: 12px;
+	font-family: Myriad Pro, sans-serif;
+	color: #975c25;
+	width: 100px;
+	height: 35px;
+	border: 2px solid #ba7615;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	/*background-color: #fdc956;*/
+	background: url(background-tile.png) repeat-x;
+}
